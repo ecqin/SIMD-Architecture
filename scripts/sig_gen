@@ -1,0 +1,315 @@
+
+
+
+vsim -voptargs=+acc -debugDB work.harmonica_tb
+###### Add everything to waveform ######
+add wave -r sim:/harmonica_tb/*
+
+#for {set i 0} {$i < 64 } {incr i} {
+#  add wave -position insertpoint  \
+#  {sim:/harmonica_tb/harmonica_core/generalRF/genblk1[$i]/RF/RF}
+#}
+
+
+#include <iostream>
+
+#using namespace std;
+
+#int main()
+#{
+#    for (int i = 0 ; i < 64 ; i++) {
+#        cout << "add wave -position insertpoint  \\" << endl; 
+#        cout << "{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[" << i <<  "]/RF/RF}" << endl;
+#    }
+   
+#   return 0;
+#}
+
+
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[0]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[1]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[2]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[3]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[4]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[5]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[6]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[7]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[8]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[9]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[10]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[11]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[12]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[13]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[14]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[15]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[16]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[17]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[18]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[19]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[20]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[21]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[22]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[23]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[24]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[25]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[26]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[27]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[28]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[29]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[30]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[31]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[32]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[33]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[34]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[35]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[36]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[37]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[38]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[39]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[40]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[41]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[42]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[43]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[44]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[45]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[46]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[47]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[48]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[49]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[50]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[51]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[52]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[53]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[54]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[55]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[56]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[57]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[58]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[59]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[60]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[61]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[62]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/generalRF/genblk1[63]/RF/RF}
+
+
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[0]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[1]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[2]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[3]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[4]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[5]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[6]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[7]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[8]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[9]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[10]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[11]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[12]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[13]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[14]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[15]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[16]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[17]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[18]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[19]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[20]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[21]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[22]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[23]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[24]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[25]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[26]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[27]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[28]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[29]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[30]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[31]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[32]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[33]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[34]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[35]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[36]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[37]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[38]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[39]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[40]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[41]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[42]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[43]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[44]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[45]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[46]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[47]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[48]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[49]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[50]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[51]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[52]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[53]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[54]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[55]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[56]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[57]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[58]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[59]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[60]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[61]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[62]/RF/RF}
+add wave -position insertpoint  \
+{sim:/harmonica_tb/harmonica_core/predicateRF/genblk1[63]/RF/RF}
+
+
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/harp_warpTable/warpTable
+
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/generalRF/read_data_block_2 \
+sim:/harmonica_tb/harmonica_core/generalRF/read_data_block_1 \
+sim:/harmonica_tb/harmonica_core/generalRF/read_data_block_0
+
+add wave -position insertpoint  \
+sim:/harmonica_tb/DataCache
+
+#add wave -position insertpoint  \
+#sim:/harmonica_tb/harmonica_tracker/*
+
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/pred_data_vector_0
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/phi
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/predicateRF/read_data_vector_0
+add wave -position insertpoint  \
+sim:/harmonica_tb/harmonica_core/predicateRF/read_data_block_0
+
+
+run 100000
+
+
