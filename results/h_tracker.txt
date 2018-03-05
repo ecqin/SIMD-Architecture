@@ -1,0 +1,688 @@
+=====================================================
+              Harmonica Tracker v1 
+=====================================================
+
+ 
+=====================================================
+Simulation Time          --->                 9500
+
+Register (7,1) Value: 0000000000000000
+Register (15,1) Value: 0000000000000000
+Register (23,1) Value: 0000000000000000
+Register (31,1) Value: 0000000000000000
+Register (39,1) Value: 0000000000000000
+Register (47,1) Value: 0000000000000000
+Register (55,1) Value: 0000000000000000
+Register (63,1) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                11100
+
+Register (7,5) Value: 0000000000000000
+Register (15,5) Value: 0000000000000000
+Register (23,5) Value: 0000000000000000
+Register (31,5) Value: 0000000000000000
+Register (39,5) Value: 0000000000000000
+Register (47,5) Value: 0000000000000000
+Register (55,5) Value: 0000000000000000
+Register (63,5) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                12700
+
+Register (7,2) Value: fffffffffffffffe
+Register (15,2) Value: fffffffffffffffe
+Register (23,2) Value: fffffffffffffffe
+Register (31,2) Value: fffffffffffffffe
+Register (39,2) Value: fffffffffffffffe
+Register (47,2) Value: fffffffffffffffe
+Register (55,2) Value: fffffffffffffffe
+Register (63,2) Value: fffffffffffffffe
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                14300
+
+Register (7,1) Value: ffffffffffffffff
+Register (15,1) Value: ffffffffffffffff
+Register (23,1) Value: ffffffffffffffff
+Register (31,1) Value: ffffffffffffffff
+Register (39,1) Value: ffffffffffffffff
+Register (47,1) Value: ffffffffffffffff
+Register (55,1) Value: ffffffffffffffff
+Register (63,1) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                15900
+
+Register (7,4) Value: 0000000000000003
+Register (15,4) Value: 0000000000000003
+Register (23,4) Value: 0000000000000003
+Register (31,4) Value: 0000000000000003
+Register (39,4) Value: 0000000000000003
+Register (47,4) Value: 0000000000000003
+Register (55,4) Value: 0000000000000003
+Register (63,4) Value: 0000000000000003
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                17500
+
+Register (7,5) Value: ffffffffffffffff
+Register (15,5) Value: ffffffffffffffff
+Register (23,5) Value: ffffffffffffffff
+Register (31,5) Value: ffffffffffffffff
+Register (39,5) Value: ffffffffffffffff
+Register (47,5) Value: ffffffffffffffff
+Register (55,5) Value: ffffffffffffffff
+Register (63,5) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                19100
+
+Register (7,5) Value: fffffffffffffffd
+Register (15,5) Value: fffffffffffffffd
+Register (23,5) Value: fffffffffffffffd
+Register (31,5) Value: fffffffffffffffd
+Register (39,5) Value: fffffffffffffffd
+Register (47,5) Value: fffffffffffffffd
+Register (55,5) Value: fffffffffffffffd
+Register (63,5) Value: fffffffffffffffd
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                20700
+
+Register (7,5) Value: 0000000000000002
+Register (15,5) Value: 0000000000000002
+Register (23,5) Value: 0000000000000002
+Register (31,5) Value: 0000000000000002
+Register (39,5) Value: 0000000000000002
+Register (47,5) Value: 0000000000000002
+Register (55,5) Value: 0000000000000002
+Register (63,5) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                22300
+
+Register (7,5) Value: 0000000000000007
+Register (15,5) Value: 0000000000000007
+Register (23,5) Value: 0000000000000007
+Register (31,5) Value: 0000000000000007
+Register (39,5) Value: 0000000000000007
+Register (47,5) Value: 0000000000000007
+Register (55,5) Value: 0000000000000007
+Register (63,5) Value: 0000000000000007
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                23900
+
+Register (7,10) Value: 0000000000000048
+Register (15,10) Value: 0000000000000048
+Register (23,10) Value: 0000000000000048
+Register (31,10) Value: 0000000000000048
+Register (39,10) Value: 0000000000000048
+Register (47,10) Value: 0000000000000048
+Register (55,10) Value: 0000000000000048
+Register (63,10) Value: 0000000000000048
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                25500
+
+Register (7,10) Value: 0000000000000009
+Register (15,10) Value: 0000000000000009
+Register (23,10) Value: 0000000000000009
+Register (31,10) Value: 0000000000000009
+Register (39,10) Value: 0000000000000009
+Register (47,10) Value: 0000000000000009
+Register (55,10) Value: 0000000000000009
+Register (63,10) Value: 0000000000000009
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                27100
+
+Register (7,1) Value: 0000000000000001
+Register (15,1) Value: 0000000000000001
+Register (23,1) Value: 0000000000000001
+Register (31,1) Value: 0000000000000001
+Register (39,1) Value: 0000000000000001
+Register (47,1) Value: 0000000000000001
+Register (55,1) Value: 0000000000000001
+Register (63,1) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                28700
+
+Register (7,2) Value: 0000000000000002
+Register (15,2) Value: 0000000000000002
+Register (23,2) Value: 0000000000000002
+Register (31,2) Value: 0000000000000002
+Register (39,2) Value: 0000000000000002
+Register (47,2) Value: 0000000000000002
+Register (55,2) Value: 0000000000000002
+Register (63,2) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                30300
+
+Register (7,2) Value: 0000000000000001
+Register (15,2) Value: 0000000000000001
+Register (23,2) Value: 0000000000000001
+Register (31,2) Value: 0000000000000001
+Register (39,2) Value: 0000000000000001
+Register (47,2) Value: 0000000000000001
+Register (55,2) Value: 0000000000000001
+Register (63,2) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                31900
+
+Register (7,5) Value: 0000000000000001
+Register (15,5) Value: 0000000000000001
+Register (23,5) Value: 0000000000000001
+Register (31,5) Value: 0000000000000001
+Register (39,5) Value: 0000000000000001
+Register (47,5) Value: 0000000000000001
+Register (55,5) Value: 0000000000000001
+Register (63,5) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                33500
+
+Register (7,5) Value: 0000000000000000
+Register (15,5) Value: 0000000000000000
+Register (23,5) Value: 0000000000000000
+Register (31,5) Value: 0000000000000000
+Register (39,5) Value: 0000000000000000
+Register (47,5) Value: 0000000000000000
+Register (55,5) Value: 0000000000000000
+Register (63,5) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                35100
+
+Register (7,5) Value: 0000000000000001
+Register (15,5) Value: 0000000000000001
+Register (23,5) Value: 0000000000000001
+Register (31,5) Value: 0000000000000001
+Register (39,5) Value: 0000000000000001
+Register (47,5) Value: 0000000000000001
+Register (55,5) Value: 0000000000000001
+Register (63,5) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                36700
+
+Register (7,5) Value: 0000000000000000
+Register (15,5) Value: 0000000000000000
+Register (23,5) Value: 0000000000000000
+Register (31,5) Value: 0000000000000000
+Register (39,5) Value: 0000000000000000
+Register (47,5) Value: 0000000000000000
+Register (55,5) Value: 0000000000000000
+Register (63,5) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                38300
+
+Register (7,5) Value: 0000000000000002
+Register (15,5) Value: 0000000000000002
+Register (23,5) Value: 0000000000000002
+Register (31,5) Value: 0000000000000002
+Register (39,5) Value: 0000000000000002
+Register (47,5) Value: 0000000000000002
+Register (55,5) Value: 0000000000000002
+Register (63,5) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                39900
+
+Register (7,5) Value: 0000000000000001
+Register (15,5) Value: 0000000000000001
+Register (23,5) Value: 0000000000000001
+Register (31,5) Value: 0000000000000001
+Register (39,5) Value: 0000000000000001
+Register (47,5) Value: 0000000000000001
+Register (55,5) Value: 0000000000000001
+Register (63,5) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                41500
+
+Register (7,6) Value: 0000000000000000
+Register (15,6) Value: 0000000000000000
+Register (23,6) Value: 0000000000000000
+Register (31,6) Value: 0000000000000000
+Register (39,6) Value: 0000000000000000
+Register (47,6) Value: 0000000000000000
+Register (55,6) Value: 0000000000000000
+Register (63,6) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                43100
+
+Register (7,6) Value: 0000000000000004
+Register (15,6) Value: 0000000000000004
+Register (23,6) Value: 0000000000000004
+Register (31,6) Value: 0000000000000004
+Register (39,6) Value: 0000000000000004
+Register (47,6) Value: 0000000000000004
+Register (55,6) Value: 0000000000000004
+Register (63,6) Value: 0000000000000004
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                44700
+
+Register (7,6) Value: 0000000000000002
+Register (15,6) Value: 0000000000000002
+Register (23,6) Value: 0000000000000002
+Register (31,6) Value: 0000000000000002
+Register (39,6) Value: 0000000000000002
+Register (47,6) Value: 0000000000000002
+Register (55,6) Value: 0000000000000002
+Register (63,6) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                46300
+
+Register (7,11) Value: fffffffffffffff1
+Register (15,11) Value: fffffffffffffff1
+Register (23,11) Value: fffffffffffffff1
+Register (31,11) Value: fffffffffffffff1
+Register (39,11) Value: fffffffffffffff1
+Register (47,11) Value: fffffffffffffff1
+Register (55,11) Value: fffffffffffffff1
+Register (63,11) Value: fffffffffffffff1
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                60700
+
+Register (7,21) Value: 0000000000000000
+Register (15,21) Value: 0000000000000000
+Register (23,21) Value: 0000000000000000
+Register (31,21) Value: 0000000000000000
+Register (39,21) Value: 0000000000000000
+Register (47,21) Value: 0000000000000000
+Register (55,21) Value: 0000000000000000
+Register (63,21) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                78300
+
+Register (7,1) Value: 0000000000000000
+Register (15,1) Value: 0000000000000000
+Register (23,1) Value: 0000000000000000
+Register (31,1) Value: 0000000000000000
+Register (39,1) Value: 0000000000000000
+Register (47,1) Value: 0000000000000000
+Register (55,1) Value: 0000000000000000
+Register (63,1) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                79900
+
+Register (7,5) Value: 0000000000000000
+Register (15,5) Value: 0000000000000000
+Register (23,5) Value: 0000000000000000
+Register (31,5) Value: 0000000000000000
+Register (39,5) Value: 0000000000000000
+Register (47,5) Value: 0000000000000000
+Register (55,5) Value: 0000000000000000
+Register (63,5) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                81500
+
+Register (7,2) Value: ffffffffffffffff
+Register (15,2) Value: ffffffffffffffff
+Register (23,2) Value: ffffffffffffffff
+Register (31,2) Value: ffffffffffffffff
+Register (39,2) Value: ffffffffffffffff
+Register (47,2) Value: ffffffffffffffff
+Register (55,2) Value: ffffffffffffffff
+Register (63,2) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                83100
+
+Register (7,1) Value: ffffffffffffffff
+Register (15,1) Value: ffffffffffffffff
+Register (23,1) Value: ffffffffffffffff
+Register (31,1) Value: ffffffffffffffff
+Register (39,1) Value: ffffffffffffffff
+Register (47,1) Value: ffffffffffffffff
+Register (55,1) Value: ffffffffffffffff
+Register (63,1) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                86300
+
+Register (7,5) Value: ffffffffffffffff
+Register (15,5) Value: ffffffffffffffff
+Register (23,5) Value: ffffffffffffffff
+Register (31,5) Value: ffffffffffffffff
+Register (39,5) Value: ffffffffffffffff
+Register (47,5) Value: ffffffffffffffff
+Register (55,5) Value: ffffffffffffffff
+Register (63,5) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                87900
+
+Register (7,5) Value: fffffffffffffffc
+Register (15,5) Value: fffffffffffffffc
+Register (23,5) Value: fffffffffffffffc
+Register (31,5) Value: fffffffffffffffc
+Register (39,5) Value: fffffffffffffffc
+Register (47,5) Value: fffffffffffffffc
+Register (55,5) Value: fffffffffffffffc
+Register (63,5) Value: fffffffffffffffc
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                89500
+
+Register (7,5) Value: 0000000000000002
+Register (15,5) Value: 0000000000000002
+Register (23,5) Value: 0000000000000002
+Register (31,5) Value: 0000000000000002
+Register (39,5) Value: 0000000000000002
+Register (47,5) Value: 0000000000000002
+Register (55,5) Value: 0000000000000002
+Register (63,5) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                91100
+
+Register (7,5) Value: 0000000000000007
+Register (15,5) Value: 0000000000000007
+Register (23,5) Value: 0000000000000007
+Register (31,5) Value: 0000000000000007
+Register (39,5) Value: 0000000000000007
+Register (47,5) Value: 0000000000000007
+Register (55,5) Value: 0000000000000007
+Register (63,5) Value: 0000000000000007
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                92700
+
+Register (7,10) Value: 0000000000000048
+Register (15,10) Value: 0000000000000048
+Register (23,10) Value: 0000000000000048
+Register (31,10) Value: 0000000000000048
+Register (39,10) Value: 0000000000000048
+Register (47,10) Value: 0000000000000048
+Register (55,10) Value: 0000000000000048
+Register (63,10) Value: 0000000000000048
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                94300
+
+Register (7,10) Value: 0000000000000009
+Register (15,10) Value: 0000000000000009
+Register (23,10) Value: 0000000000000009
+Register (31,10) Value: 0000000000000009
+Register (39,10) Value: 0000000000000009
+Register (47,10) Value: 0000000000000009
+Register (55,10) Value: 0000000000000009
+Register (63,10) Value: 0000000000000009
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                95900
+
+Register (7,1) Value: 0000000000000001
+Register (15,1) Value: 0000000000000001
+Register (23,1) Value: 0000000000000001
+Register (31,1) Value: 0000000000000001
+Register (39,1) Value: 0000000000000001
+Register (47,1) Value: 0000000000000001
+Register (55,1) Value: 0000000000000001
+Register (63,1) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                97500
+
+Register (7,2) Value: 0000000000000002
+Register (15,2) Value: 0000000000000002
+Register (23,2) Value: 0000000000000002
+Register (31,2) Value: 0000000000000002
+Register (39,2) Value: 0000000000000002
+Register (47,2) Value: 0000000000000002
+Register (55,2) Value: 0000000000000002
+Register (63,2) Value: 0000000000000002
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                99100
+
+Register (7,2) Value: 0000000000000001
+Register (15,2) Value: 0000000000000001
+Register (23,2) Value: 0000000000000001
+Register (31,2) Value: 0000000000000001
+Register (39,2) Value: 0000000000000001
+Register (47,2) Value: 0000000000000001
+Register (55,2) Value: 0000000000000001
+Register (63,2) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+

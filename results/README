@@ -1,0 +1,6 @@
+
+Example tracker output. 
+
+* First value within the parenthesis is the Register File ID, and the second value is the Register ID.
+
+* Change the warpX_sig signal in the tracker files to change what warp to track.

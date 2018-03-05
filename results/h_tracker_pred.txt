@@ -1,0 +1,112 @@
+=====================================================
+              Harmonica Tracker v1 
+=====================================================
+
+ 
+=====================================================
+Simulation Time          --->                49500
+
+Register (7,2) Value: 0000000000000000
+Register (15,2) Value: 0000000000000000
+Register (23,2) Value: 0000000000000000
+Register (31,2) Value: 0000000000000000
+Register (39,2) Value: 0000000000000000
+Register (47,2) Value: 0000000000000000
+Register (55,2) Value: 0000000000000000
+Register (63,2) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                51100
+
+Register (7,3) Value: 0000000000000005
+Register (15,3) Value: 0000000000000005
+Register (23,3) Value: 0000000000000005
+Register (31,3) Value: 0000000000000005
+Register (39,3) Value: 0000000000000005
+Register (47,3) Value: 0000000000000005
+Register (55,3) Value: 0000000000000005
+Register (63,3) Value: 0000000000000005
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                52700
+
+Register (7,4) Value: 0000000000000003
+Register (15,4) Value: 0000000000000003
+Register (23,4) Value: 0000000000000003
+Register (31,4) Value: 0000000000000003
+Register (39,4) Value: 0000000000000003
+Register (47,4) Value: 0000000000000003
+Register (55,4) Value: 0000000000000003
+Register (63,4) Value: 0000000000000003
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                54300
+
+Register (7,0) Value: ffffffffffffffff
+Register (15,0) Value: ffffffffffffffff
+Register (23,0) Value: ffffffffffffffff
+Register (31,0) Value: ffffffffffffffff
+Register (39,0) Value: ffffffffffffffff
+Register (47,0) Value: ffffffffffffffff
+Register (55,0) Value: ffffffffffffffff
+Register (63,0) Value: ffffffffffffffff
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                55900
+
+Register (7,0) Value: 0000000000000000
+Register (15,0) Value: 0000000000000000
+Register (23,0) Value: 0000000000000000
+Register (31,0) Value: 0000000000000000
+Register (39,0) Value: 0000000000000000
+Register (47,0) Value: 0000000000000000
+Register (55,0) Value: 0000000000000000
+Register (63,0) Value: 0000000000000000
+ 
+=====================================================
+
+
+
+
+ 
+=====================================================
+Simulation Time          --->                57500
+
+Register (7,0) Value: 0000000000000001
+Register (15,0) Value: 0000000000000001
+Register (23,0) Value: 0000000000000001
+Register (31,0) Value: 0000000000000001
+Register (39,0) Value: 0000000000000001
+Register (47,0) Value: 0000000000000001
+Register (55,0) Value: 0000000000000001
+Register (63,0) Value: 0000000000000001
+ 
+=====================================================
+
+
+
+
