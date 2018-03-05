@@ -1,7 +1,14 @@
 # SIMD-Architecture
 
+Harmonica SIMD Architecture implementation in SystemVerilog.
+
+This is the initial version of the RTL.
+
+The doc directory has the documentation of the RTL project. Enjoy!
+
 
 To run the Harmonica RTL Project:
+TODO: Direction using free RTL compilers (Verilator?) and waveviewer (GTKWave?)
 
   1. SSH to ecelinsrvx.ece.gatech.edu
   2. source /tools/mentor/modelsim/ms106a/cshrc.modelsim
